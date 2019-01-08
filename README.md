@@ -1,5 +1,7 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
 
+[![Build Status](https://dylanbox.visualstudio.com/AzureDev/_apis/build/status/AzureDev-CI?branchName=master)](https://dylanbox.visualstudio.com/AzureDev/_build/latest?definitionId=7?branchName=master)
+
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
